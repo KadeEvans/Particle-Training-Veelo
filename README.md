@@ -18,7 +18,7 @@ git checkout training/cloud-functions
 git checkout training/serial-publishing
 ```
 
-- **Where the code is**: `src/main.cpp`
+- **Where the code is**: `src/main.ino`
 - **How to run**: open the project in **Particle Workbench**, select a device + target platform, then flash.
 
 ### Quick “what should I see?”
